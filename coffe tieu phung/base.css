@@ -1,0 +1,34 @@
+*{
+    font: inherit;
+}
+.grid{
+    width: 100%;
+    display: block;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wide{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.grow{
+    padding: 0 -12px;
+}
+
+.text-center{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.btn-br{
+    background-color: #19a0cb;
+    padding: 10px 20px;
+    border-radius: 30px;
+  
+}
+.h5{
+    margin: 0 10px;
+}
