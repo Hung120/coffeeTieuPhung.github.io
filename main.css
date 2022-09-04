@@ -1,0 +1,44 @@
+*{
+    background-color: #372222;
+    
+}
+
+.phone{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    top: 0;
+    background-color: transparent;
+}
+
+.content_img{
+    max-width: 100%;
+    position: relative;
+    margin-bottom: 4px;
+    
+
+}
+
+.content_img-img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.content_menu{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    font-size: 20px;
+    background-color: transparent;
+
+}
+
+.h5{
+    background-color: transparent;
+    color: white;
+    font-size: 28px;
+    text-align: end;
+}
